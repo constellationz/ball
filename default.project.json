@@ -1,0 +1,17 @@
+{
+  "name": "Project",
+  "tree": {
+    "$className": "DataModel",
+    "StarterPack": {
+      "$className": "StarterPack", 
+      "mashend_ball": {
+        "$className": "Tool",
+        "$properties": {
+          "CanBeDropped": false,
+          "RequiresHandle": false
+        },
+        "$path": "src/tool"
+      }
+    }
+  }
+}
